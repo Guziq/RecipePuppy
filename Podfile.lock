@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Argo (4.1.2):
+    - Runes (>= 4.0.0)
+  - Curry (3.0.0)
+  - Moya (8.0.5):
+    - Moya/Core (= 8.0.5)
+  - Moya-Argo (2.0.1):
+    - Moya-Argo/Core (= 2.0.1)
+  - Moya-Argo/Core (2.0.1):
+    - Argo (~> 4.1.2)
+    - Moya (~> 8.0.3)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Nuke (5.2)
+  - Result (3.2.3)
+  - Runes (4.1.0)
+
+DEPENDENCIES:
+  - Argo
+  - Curry
+  - Moya
+  - Moya-Argo
+  - Nuke (~> 5.0)
+  - Runes
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Argo: 5db06502fc1222d83011f574243089dab25202ff
+  Curry: eb3d2c75aec678b3cc7fb2729d2ad6dd121531d1
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  Moya-Argo: a925d2556b711121078ed15da8586965fbc5f7e3
+  Nuke: 5f420c4637415f979c83afb35e73176dd03232d9
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+  Runes: 72a67a5bbbe1b5fdae08b5a01b10c60d83fc69aa
+
+PODFILE CHECKSUM: 96046493bb4de0182e14f3b7706f59cc24e4d628
+
+COCOAPODS: 1.2.1
